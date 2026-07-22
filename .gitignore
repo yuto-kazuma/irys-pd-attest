@@ -1,0 +1,12 @@
+node_modules/
+dist/
+out/
+cache/
+broadcast/
+.env
+*.log
+artifacts/
+deployments.local.json
+last-upload.json
+contract.json
+app/contract.json
